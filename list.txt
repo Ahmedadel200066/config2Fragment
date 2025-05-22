@@ -1,1 +1,1 @@
-vless://de44b044-8f90-4e18-b742-16591667ff96@20.220.29.122:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6CA%2B%E2%9C%93%2BAB_841
+vless://7xAb5+CdkcBIMOs2YNcaIwMuNtPqGixvaVvpM6bO2/8WWOXuLYqgXQ15kg/ff04HSpCYUCD0Wayp324O2NPZrRhGhIZCjy1erCcyd0CEiyuWI0zkK4Yd9Z73IZEfUEXaEaHx4l5Tzg379Ra7htk9OFu8zhPEYqvV62CmOSB4Y5iUH1ky7TtuHOvnrn11FM/0baCEWoC8FbggyOI6n8381Q5rvVMqSvUwjUb8V/1447Ug/aDuMftesZJdi3OBF70Q
