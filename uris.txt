@@ -1,1 +1,1 @@
-vless://7xAb5+CdkcBIMOs2YNcaIwMuNtPqGixvaVvpM6bO2/8WWOXuLYqgXQ15kg/ff04HSpCYUCD0Wayp324O2NPZrRhGhIZCjy1erCcyd0CEiyuWI0zkK4Yd9Z73IZEfUEXaEaHx4l5Tzg379Ra7htk9OFu8zhPEYqvV62CmOSB4Y5iUH1ky7TtuHOvnrn11FM/0baCEWoC8FbggyOI6n8381Q5rvVMqSvUwjUb8V/1447Ug/aDuMftesZJdi3OBF70Q
+vless://7a909354-3743-11f0-a429-7b5075b21776@gr2.vpnjantit.com:10002/?security=tls&encryption=none&headerType=none&type=ws&flow=none&host=gr2.vpnjantit.com&path=%252fvpnjantit&sni=www.pubg.com#tewrrw-vpnjantit.com
